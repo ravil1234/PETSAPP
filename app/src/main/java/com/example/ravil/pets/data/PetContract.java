@@ -79,7 +79,9 @@ public final class PetContract {
          */
         public final static String COLUMN_PET_WEIGHT = "weight";
 
+
         /**
+         * xjsk
          * Possible values for the gender of the pet.
          */
         public static final int GENDER_UNKNOWN = 0;
