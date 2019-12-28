@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="vertical"
@@ -13,8 +13,7 @@
         android:layout_height="wrap_content"
         android:fontFamily="sans-serif-medium"
         android:textAppearance="?android:textAppearanceMedium"
-        android:textColor="#2B3D4D"
-        tools:ignore="UnusedAttribute" />
+        android:textColor="#2B3D4D"  />
 
     <TextView
         android:id="@+id/summary"
@@ -22,6 +21,5 @@
         android:layout_height="wrap_content"
         android:fontFamily="sans-serif"
         android:textAppearance="?android:textAppearanceSmall"
-        android:textColor="#AEB6BD"
-        tools:ignore="UnusedAttribute" />
+        android:textColor="#AEB6BD"  />
 </LinearLayout>
